@@ -8,5 +8,5 @@
 * JavaScript
 * React JS
 * Programacion Backend (estudiando actualmente)
-• Diseño web
-• SCSS
+* Diseño Web
+* SCSS
