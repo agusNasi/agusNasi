@@ -1,12 +1,3 @@
 ### Hola! Soy Agustin, Full stack developer 👋
 
- Soy estudiante de la carrera programación full stack de coderhouse, el cual consta de un curso de programación basado en prácticas y proyectos reales que te permite desenvolverte tanto en Front end como en Back end.
-
-
-- Programador Full Stack -
-* Desarrollo Web
-* JavaScript
-* React JS
-* Programacion Backend (estudiando actualmente)
-* Diseño Web
-* SCSS
+Hola soy Agustín Nasi de Córdoba, Argentina. Tengo 21 años y me especializo en desarrollador MERN stack con orientación en backend. Apasionado por la música, me gusta crear retratos y universos alrededor de lo que escucho y siempre tengo curiosidad por aprender más sobre las nuevas tecnologías y la codificación creativa. Me siento tranquilamente confiado, naturalmente curioso y trabajo constantemente para mejorar mis habilidades.
